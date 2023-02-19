@@ -1,4 +1,4 @@
-#heading 1
+# Heading 1
 
 ##heading 2
 
