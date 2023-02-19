@@ -38,5 +38,5 @@ An ordered list:
 1. this is the third item
 
 | Column 1 | Column 2 | Column 3 |
-|----------|
-| data 1   |
+|----------|----------|----------|
+| data 1   | data 2   | data 3   |  
