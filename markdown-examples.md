@@ -37,4 +37,6 @@ An ordered list:
 	- this is a sub item
 1. this is the third item
 
-
+| Column 1 | Column 2 | Column 3 |
+|----------|
+| data 1   |
