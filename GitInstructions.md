@@ -2,7 +2,7 @@
 
 ## Open Directory
 -cd
-- repos/syslib2023/
+ -repos/syslib2023/
 
 ## Creat New Document for Journal in Nano
 
@@ -11,10 +11,10 @@
   - Y Journalweekname.md
 
 ## Push to Github
-- Git Status
-- Git add "journalweekname.md"
-- Git commit -m "journalweekname.md"
-- Git push origin main
+- git Status
+- git add "journalweekname.md"
+- git commit -m "journalweekname.md"
+- git push origin main
 
 
 
