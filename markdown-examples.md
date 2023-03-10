@@ -1,8 +1,8 @@
 # Heading 1
 
-##heading 2
+## heading 2
 
-######heading 6
+###### heading 6
 
 This is *bold*
 
@@ -26,9 +26,9 @@ git push origin main
 
 To add links to [example.com](https://www.example.com).
 
-*this is the first item
-*this is the second item
-*this is the third item
+* this is the first item
+* this is the second item
+* this is the third item
 
 An ordered list:
 1. this is the first item
