@@ -10,8 +10,10 @@
 ## Create an index.html file
 
 Change Directories and Make New Directory cataloging
+```
 - cd /var/www/html
 - sudo mkdir cataloging 
+```
 
 Add to cataloging a index.html file
 - cd cataloging
