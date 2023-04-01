@@ -1,5 +1,8 @@
-#systems librarnship
+# systems librarnship
 
-notes on systems librarianship
+- notes on systems librarianship
 
-using this to show hot to create a github reo and to use git on the linnux command line.
+using this to show how to create a github repo and to use git on the linx command line.
+
+> Example from video demenstration! 
+
