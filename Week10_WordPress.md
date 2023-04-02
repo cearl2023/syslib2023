@@ -12,9 +12,11 @@ sudo apt upgrade - y
 ```
 php -version
 mysql --version
-```WordPress Requires php 7.4 and MySql 8.0 as of 03/2023
+```
+WordPress Requires php 7.4 and MySql 8.0 as of 03/2023
 
 Install Additional PHP modults
+
 ```
 sudo apt install php-curl php-xml php-imagick php-mbstring php-zip php-intl
 ```
