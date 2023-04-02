@@ -4,7 +4,7 @@
 - cd
   - repos/syslib2023/
 
-## Creat New Document for Journal in Nano
+## Create New Document for Journal in Nano
 
 - Create new document
   - nano journalweekname.md
