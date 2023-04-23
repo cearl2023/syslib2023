@@ -7,8 +7,10 @@ This week(s) goal is to weave and integrate the Wordpress, KOHA, and Omeka toget
 - Added a website header bar with links to my Koha and Omeka sites. 
 - Added a icon for the tab bar. 
 - Added a log for the header on pages.
+- #eb6237
+- #cf2e2e
 - [Cierra's Public Library](http://35.239.202.225/blog/)
-
+ 
 
 #Koha
 - Created an account for Quark Gentle
